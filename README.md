@@ -1,10 +1,11 @@
 # Hey, I'm Alex
 
-Software engineer building full-stack applications, trading systems, and homelab infrastructure. Currently transitioning from test engineering into development — most of what you see here are production systems I built and run myself.
+Software engineer building full-stack applications, trading systems, and homelab infrastructure. Currently working as a Software Test Engineer while independently building and running production systems full-time on the side.
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.1-000000?logo=flask)
 ![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?logo=react&logoColor=black)
@@ -34,7 +35,7 @@ Software engineer building full-stack applications, trading systems, and homelab
 
 ## Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL, HTML/CSS
+**Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML/CSS
 
 **Backend:** Spring Boot, Flask, Gunicorn, REST APIs, JWT, OAuth 2.0
 
@@ -61,3 +62,5 @@ Everything runs on self-hosted infrastructure — no cloud providers:
 ## Contact
 
 **Portfolio:** [atlasledger.studio](https://atlasledger.studio)
+**LinkedIn:** [Alexander Pedraza](https://www.linkedin.com/in/alexander-pedraza-380849251/)
+**Email:** alex.pedraza761@gmail.com
